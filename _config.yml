@@ -20,7 +20,11 @@ author: Matthew Kubas
 ###############################################
 
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "aboutme"
+  Academic Career: "academic-career"
+    - Modern Physics: "academic-career/phys205"
+  Groups and Leadership: "activities"
+  Personal Projects: "projects"
 
 ################
 # --- Logo --- #
