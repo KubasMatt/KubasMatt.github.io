@@ -1,8 +1,4 @@
----
-layout: page
-title: About me
-subtitle: A brief background of who I am and why I choose to study what I did
----
+
 
 Matthew Kubas is an extremely dedicated Electrical Engineer and Physicist, looking for a full time position in the research or industry sector. Will be graduating with a bachelor's of science from both Washington University in St. Louis and Illinois Wesleyan University, part of the Dual-Degree Program.
 
