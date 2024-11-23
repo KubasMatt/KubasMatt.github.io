@@ -20,7 +20,7 @@ author: Matthew Kubas
 ###############################################
 
 navbar-links:
-  About Me: "/_pages/aboutme.md"
+  About Me: "aboutme.md"
 
 ################
 # --- Logo --- #
