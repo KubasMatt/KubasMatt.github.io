@@ -25,7 +25,7 @@ List of many the classes I took at Washington University in Electrical Engineeri
 - Introduction to Digital Logic and Computer Design
 - Introduction to Engineering Design (Lab)
 - Introduction to Electronic Circuits
-- Signals and Systems <a href="reports/ESE488_FL24_Project_1_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Project 1</a>
+- Signals and Systems <a href="https://kubasmatt.github.io/reports/ESE488_FL24_Project_1_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Project 1</a>
 - Introduction to Quantum Electronics
 - Computer Architecture
 - Semiconductor Devices
