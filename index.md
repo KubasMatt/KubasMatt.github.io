@@ -2,10 +2,9 @@
 layout: page
 title: Matthew Kubas's Portfolio
 subtitle: A website detailing the background and achievement of Matthew Kubas
-last-updated: 11/25/2024
 ---
 
-The Website portfolio is currently in progress, more will be added soon.
+The Website portfolio is currently in progress, more will be added soon (last updated: 01/07/2025).
 
 # About ME
 

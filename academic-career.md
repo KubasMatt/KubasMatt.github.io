@@ -6,7 +6,7 @@ subtitle: General overview of my academic career with links to more details for 
 # My University Career
 ## Illinois Wesleyan University
 
-List of many the classes I took at Illinois Wesleyan University in Physics and mathematics. Core classes like Calculus, Physics I & II, Linear Algebra, and others were taken but are not listed for relevance. 
+Below is a list of relevant classes that were fundamental to the application of my knowledge. To see all my classes please see my <a href="https://kubasmatt.github.io/documents/IWU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
 
 - Modern Physics (with Lab)
 - Electronics (with Lab)
@@ -19,7 +19,7 @@ List of many the classes I took at Illinois Wesleyan University in Physics and m
 
 ## Washington University in St. Louis
 
-List of many the classes I took at Washington University in Electrical Engineering
+List of many the classes I took at Washington University in Electrical Engineering. To see a full list please see my <a href="https://kubasmatt.github.io/documents/WashU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
 
 - Introduction to Electrical and Electronic Circuits (with Lab)
 - Introduction to Digital Logic and Computer Design
@@ -29,6 +29,7 @@ List of many the classes I took at Washington University in Electrical Engineeri
 - Introduction to Quantum Electronics
 - Computer Architecture
 - Semiconductor Devices
+- Introduction to Quantum Optics
 - Signals and Imaging Laboratory (Lab)
 - Power, Energy, and Polyphase Circuits (SP25)
 - Digital Integrated Circuit Design and Architecture
