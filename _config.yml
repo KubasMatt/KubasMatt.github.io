@@ -20,9 +20,10 @@ author: Matthew Kubas
 ###############################################
 
 navbar-links:
-  Academic Career:  "academic-career"
-  Groups and Leadership: "activities"
-  Personal Projects: "personal-projects"
+  Work Experiences: "_work-experiences"
+  Academic Career:  "_academic-career"
+  Groups and Leadership: "_activities"
+  Personal Projects: "_personal-projects"
 
 ################
 # --- Logo --- #
@@ -51,6 +52,7 @@ social-network-links:
   email: "kubasmatt@gmail.com"
   github: KubasMatt
   linkedin: kubasmatt
+  discord: users/642124901699813378
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   # twitter: daattali

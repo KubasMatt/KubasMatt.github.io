@@ -4,14 +4,14 @@ title: Groups and Leadership
 subtitle: General overview of the extracurricular groups I was a part of in College with links to each for details
 ---
 
-### At Washington University
-#### [Institute of Electrical and Electronic Engineers](activities/IEEE-WASHU.md)
+## At Washington University
+### [Institute of Electrical and Electronic Engineers](activities/IEEE-WASHU.md)
 Member for Fall 2023, President for the 2024 calendar year, and external chair Spring 2025.
 - Events
   - STL Region Blackbox Competition
   - WashU Vertigo Academic Rave LED Dance floor
 
-#### [WashU Robotics - Mars Rover Competition Team](activities/Robotics-WASHU.md)
+### [WashU Robotics - Mars Rover Competition Team](activities/Robotics-WASHU.md)
 Member for Fall 2023 and Spring 2024, Lead Electrical Engineer Fall 2024 and Spring 2025.
 - From scratch design the control and power system for a controlled and autonomous rover
 - Design the wireless communication schema
