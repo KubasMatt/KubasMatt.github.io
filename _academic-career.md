@@ -48,7 +48,7 @@ List of many the classes I took at Washington University in Electrical Engineeri
 - Introduction to Quantum Optics
 - Signals and Imaging Laboratory (Lab)
     - Design systems in Matlab to perform complex operation from scratch. The three project reports are listed below.
-        - <a href="https://kubasmatt.github.io/reports/ESE488_FL24_Project_1_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Speech Classification in _MATLAB_</a>
+        - <a href="https://kubasmatt.github.io/documents/signals/ESE488_FL24_Project_1_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Speech Classification in _MATLAB_</a>
 - Power, Energy, and Polyphase Circuits (SP25)
     - Learn the basics of the high power world of electrical engineering and use the _ASPEN One-Liner_ software to construct and simulate a mock system, which included a generator, lines, buses, transformers, and loads
 - Digital Integrated Circuit Design and Architecture
