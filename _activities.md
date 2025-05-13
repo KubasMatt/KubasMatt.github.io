@@ -8,7 +8,7 @@ subtitle: General overview of the extracurricular groups I was a part of in Coll
 ### [Institute of Electrical and Electronic Engineers](activities/IEEE-WASHU.md)
 Member for Fall 2023, President for the 2024 calendar year, and external chair Spring 2025.
 - Events
-  - STL Region Blackbox Competition
+  - Hosting the STL Region Blackbox Competition
   - WashU Vertigo Academic Rave LED Dance floor
 
 ### [WashU Robotics - Mars Rover Competition Team](activities/Robotics-WASHU.md)
