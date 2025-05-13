@@ -11,7 +11,8 @@ Member for Fall 2023, President for the 2024 calendar year, and external chair S
   - Hosting the STL Region Blackbox Competition
   - WashU Vertigo Academic Rave LED Dance floor
 
-### [WashU Robotics - Mars Rover Competition Team](activities/Robotics-WASHU.md)
+<!-- ### [WashU Robotics - Mars Rover Competition Team](activities/Robotics-WASHU.md) -->
+### WashU Robotics - Mars Rover Competition Team
 Member for Fall 2023 and Spring 2024, Lead Electrical Engineer Fall 2024 and Spring 2025.
 - From scratch design the control and power system for a controlled and autonomous rover
 - Design the wireless communication schema

@@ -6,7 +6,7 @@ subtitle: General overview of my academic career with links to more details for 
 # My University Career
 ## Illinois Wesleyan University
 
-Below is a list of relevant classes that were fundamental to the application of my knowledge. To see all my classes please see my <a href="https://kubasmatt.github.io/documents/IWU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
+Below is a list of relevant classes that were fundamental to the application of my knowledge. To see all my classes please see my <a href="https://kubasmatt.github.io/documents/transcripts/IWU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
 
 - Modern Physics (with Lab)
     - An introduction to how the world really works with topics like Neronian Mechanics, Quantum Mechanics, Optics, and more
@@ -31,7 +31,7 @@ Below is a list of relevant classes that were fundamental to the application of 
 
 ## Washington University in St. Louis
 
-List of many the classes I took at Washington University in Electrical Engineering. To see a full list please see my <a href="https://kubasmatt.github.io/documents/WashU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
+List of many the classes I took at Washington University in Electrical Engineering. To see a full list please see my <a href="https://kubasmatt.github.io/documents/transcipts/WashU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
 
 - Introduction to Electrical and Electronic Circuits (with Lab)
     - Reinforced the concepts and skills needed to use electronics lab equipment and how not to write a lab report
@@ -41,10 +41,9 @@ List of many the classes I took at Washington University in Electrical Engineeri
     - A continuation of Digital logic that introduced the complexities and intricacies of the RISC-V processor, single, mutlicycle, and pipeline
 - Introduction to Engineering Design (Lab)
     - Hardware interfacing and autonomous alogythym development in python on a Raspberry Pi 4B using the Adeept mars rover cars (these cars are awful)
-- Introduction to Electronic Circuits
 - Signals and Systems 
 - Introduction to Quantum Electronics
-- Computer Architecture
+    - Introduced to the concepts of 
 - Semiconductor Devices
 - Introduction to Quantum Optics
 - Signals and Imaging Laboratory (Lab)
