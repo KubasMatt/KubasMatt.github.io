@@ -20,10 +20,10 @@ author: Matthew Kubas
 ###############################################
 
 navbar-links:
-  Work Experiences: "_work-experiences"
-  Academic Career:  "_academic-career"
-  Groups and Leadership: "_activities"
-  Personal Projects: "_personal-projects"
+  Work Experiences: "./_work-experiences.md"
+  Academic Career:  "./academic-career.md"
+  Activities: "./activities.md"
+  Personal Projects: "./_personal-projects.md"
 
 ################
 # --- Logo --- #
