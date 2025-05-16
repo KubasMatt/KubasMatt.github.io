@@ -24,15 +24,20 @@ List of many the classes I took at Washington University in Electrical Engineeri
 - Signals and Imaging Laboratory (Lab)
     - Design systems in Matlab to perform complex operation from scratch. The three project reports are listed below.
         - <a href="https://kubasmatt.github.io/documents/signals/ESE488_FL24_Project_1_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Speech Classification in _MATLAB_</a>
+        - <a href="https://kubasmatt.github.io/documents/signals/ESE488_FL24_Project_2_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Free Space Optical Communications in _MATLAB_</a>
+        - <a href="https://kubasmatt.github.io/documents/signals/ESE488_FL24_Project_3_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Diffuse Optical Tomography in _MATLAB_</a>
 - Power, Energy, and Polyphase Circuits (SP25)
     - Learn the basics of the high power world of electrical engineering and use the _ASPEN One-Liner_ software to construct and simulate a mock system, which included a generator, lines, buses, transformers, and loads
 - Digital Integrated Circuit Design and Architecture
+    - Designed a custom IC to perform the simplified DES algorithm in an architecture style
+        - <a href="https://kubasmatt.github.io/documents/CSE_463M_Digital_IC_Design_Final_Report.pdf" target="_blank" rel="noopener noreferrer">Simplified DES algorithm chip report</a>
 - Introduction to Quantum Computing
     - Learn about the principles needed for quantum computing and basic algorithms that could be theoretically applied to future quantum computers, once they become more reliable
 - <a href="https://raspberry-pi-car.github.io" target="_blank" rel="noopener noreferrer"> Senior Capstone Project - Raspberry Pi Car</a>
     - An open-source project to introduce students to hardware integration and robotics
     - Designed a custom PCB to act as a HAT (hardware attached on top) for a Raspberry Pi, allowing for increased functionality and easy and more secure hardware interfacing
     - Designed a custom chassis that is 3D printable and easy to assemble with minimal hardware and assembly
+    - <a href="https://kubasmatt.github.io/documents/ESE498_SP25_Final_Report.pdf" target="_blank" rel="noopener noreferrer">Raspberry Pi Car Final Report</a>
 
 ## Illinois Wesleyan University
 
