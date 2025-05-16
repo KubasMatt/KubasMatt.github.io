@@ -4,6 +4,36 @@ title: Academic Career Overview
 subtitle: General overview of my academic career with links to more details for each relevant class
 ---
 # My University Career
+## Washington University in St. Louis
+
+List of many the classes I took at Washington University in Electrical Engineering. To see a full list please see my <a href="https://kubasmatt.github.io/documents/transcripts/WashU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
+
+- Introduction to Electrical and Electronic Circuits (with Lab)
+    - Reinforced the concepts and skills needed to use electronics lab equipment and how not to write a lab report
+- Introduction to Digital Logic and Computer Design
+    - A basic introduction to the world of 1's and 0's, HDLs, and the inner workings of processors
+- Computer Architecture
+    - A continuation of Digital logic that introduced the complexities and intricacies of the RISC-V processor, single, mutlicycle, and pipeline
+- Introduction to Engineering Design (Lab)
+    - Hardware interfacing and autonomous alogythym development in python on a Raspberry Pi 4B using the Adeept mars rover cars (these cars are awful)
+- Signals and Systems 
+- Introduction to Quantum Electronics
+    - Introduced to the concepts of 
+- Semiconductor Devices
+- Introduction to Quantum Optics
+- Signals and Imaging Laboratory (Lab)
+    - Design systems in Matlab to perform complex operation from scratch. The three project reports are listed below.
+        - <a href="https://kubasmatt.github.io/documents/signals/ESE488_FL24_Project_1_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Speech Classification in _MATLAB_</a>
+- Power, Energy, and Polyphase Circuits (SP25)
+    - Learn the basics of the high power world of electrical engineering and use the _ASPEN One-Liner_ software to construct and simulate a mock system, which included a generator, lines, buses, transformers, and loads
+- Digital Integrated Circuit Design and Architecture
+- Introduction to Quantum Computing
+    - Learn about the principles needed for quantum computing and basic algorithms that could be theoretically applied to future quantum computers, once they become more reliable
+- <a href="https://raspberry-pi-car.github.io" target="_blank" rel="noopener noreferrer"> Senior Capstone Project - Raspberry Pi Car</a>
+    - An open-source project to introduce students to hardware integration and robotics
+    - Designed a custom PCB to act as a HAT (hardware attached on top) for a Raspberry Pi, allowing for increased functionality and easy and more secure hardware interfacing
+    - Designed a custom chassis that is 3D printable and easy to assemble with minimal hardware and assembly
+
 ## Illinois Wesleyan University
 
 Below is a list of relevant classes that were fundamental to the application of my knowledge. To see all my classes please see my <a href="https://kubasmatt.github.io/documents/transcripts/IWU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
@@ -27,37 +57,6 @@ Below is a list of relevant classes that were fundamental to the application of 
     - This is purely a lab class, that taught us how to work as a team of mechanical, electrical, and software engineers, to design a chassis, design the circuitry, and create the software (in _LABview_) to control the system. The system was a temperature control lab, where a Peltier module was used to lower the temperature to a certain point, and it was my job as the electrical lead to help others understand the electrical system and work with the other teams to deliver the finished product.
 - Electricity and Magnetism
     - Waves
-
-
-## Washington University in St. Louis
-
-List of many the classes I took at Washington University in Electrical Engineering. To see a full list please see my <a href="https://kubasmatt.github.io/documents/transcipts/WashU-Unofficial-Transcript.pdf" target="_blank" rel="noopener noreferrer">Unofficial Transcript</a>.
-
-- Introduction to Electrical and Electronic Circuits (with Lab)
-    - Reinforced the concepts and skills needed to use electronics lab equipment and how not to write a lab report
-- Introduction to Digital Logic and Computer Design
-    - A basic introduction to the world of 1's and 0's, HDLs, and the inner workings of processors
-- Computer Architecture
-    - A continuation of Digital logic that introduced the complexities and intricacies of the RISC-V processor, single, mutlicycle, and pipeline
-- Introduction to Engineering Design (Lab)
-    - Hardware interfacing and autonomous alogythym development in python on a Raspberry Pi 4B using the Adeept mars rover cars (these cars are awful)
-- Signals and Systems 
-- Introduction to Quantum Electronics
-    - Introduced to the concepts of 
-- Semiconductor Devices
-- Introduction to Quantum Optics
-- Signals and Imaging Laboratory (Lab)
-    - Design systems in Matlab to perform complex operation from scratch. The three project reports are listed below.
-        - <a href="https://kubasmatt.github.io/documents/signals/ESE488_FL24_Project_1_KubasMorton.pdf" target="_blank" rel="noopener noreferrer">Speech Classification in _MATLAB_</a>
-- Power, Energy, and Polyphase Circuits (SP25)
-    - Learn the basics of the high power world of electrical engineering and use the _ASPEN One-Liner_ software to construct and simulate a mock system, which included a generator, lines, buses, transformers, and loads
-- Digital Integrated Circuit Design and Architecture
-- Introduction to Quantum Computing
-    - Learn about the principles needed for quantum computing and basic algorithms that could be theoretically applied to future quantum computers, once they become more reliable
-- <a href="raspberry-pi-car.github.io" target="_blank" rel="noopener noreferrer"> Senior Capstone Project - Raspberry Pi Car</a>
-    - An open-source project to introduce students to hardware integration and robotics
-    - Designed a custom PCB to act as a HAT (hardware attached on top) for a Raspberry Pi, allowing for increased functionality and easy and more secure hardware interfacing
-    - Designed a custom chassis that is 3D printable and easy to assemble with minimal hardware and assembly
 
 
 # Before University

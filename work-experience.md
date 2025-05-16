@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Experience
+title: Professional Experiences
 subtitle: A comprehensive list of jobs I have held
 ---
 
@@ -9,8 +9,8 @@ subtitle: A comprehensive list of jobs I have held
 ### Introduction to Engineering Design (ESE205)
 - Work with the instructor to guide and assist students through course material, including teaching students how to debug code
 - Checked and maintained all hardware kits used by students, ensuring that all kits are properly stocked and parts functioning
-- Maintain the PiCars manufactured by [Adeept](https://www.adeept.com/picar-b_p0117.html) and all additional addons needed for the course.
-    - Due to the design of the car, it was difficult to keep up with all the broken servos and other problem, please see [Capstone Project - PiCar]() for a custom and open-source redesigned version
+- Maintain the PiCars manufactured by <a href="https://www.adeept.com/picar-b_p0117.html" target="_blank" rel="noopener noreferrer">Adeept</a> and all additional addons needed for the course.
+    - Due to the design of the car, it was difficult to keep up with all the broken servos and other problem, please see <a href="https://raspberry-pi-car.github.io" target="_blank" rel="noopener noreferrer"> Senior Capstone Project - Raspberry Pi Car</a> for a custom and open-source redesigned version
 
 ### Other Courses
 For Introduction to Electrical Circuits (ESE230), Introduction to Digital Logic (ESE260) and other classes

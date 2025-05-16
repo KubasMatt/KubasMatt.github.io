@@ -20,7 +20,7 @@ author: Matthew Kubas
 ###############################################
 
 navbar-links:
-  Work Experiences: "work-experience"
+  Professional Experiences: "work-experience"
   Academic Career:  "academic-career"
   Activities: "activities"
   Personal Projects: "personal-projects"
@@ -300,4 +300,7 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+exclude:
+  - vendor
 
